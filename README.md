@@ -6,7 +6,11 @@ an use feature branches. Within your pair, decide who should play the role of
 
 ## Setup
 
-Continue working in the `workflow_practice` repository from the earlier mergeConflicts activity
+To get started, Student 1 should **fork this repository** to their own account and add Student 2 as a collaborator.
+
+To add someone as a collaborator, go to the "Settings" tab on the GitHub page for the repository and then navigate to the "Collaborators & teams" menu item. Student 2 will receive an email with a confirmation link.
+
+Once Student 2 has been added as a collaborator, both students should clone the repository from Student 1's fork and run npm install.
 
 ## Feature Branches
 
